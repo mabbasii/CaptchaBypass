@@ -1,0 +1,8 @@
+torch>=1.12.0
+torchvision>=0.13.0
+numpy>=1.21.0
+Pillow>=8.4.0
+matplotlib>=3.4.0
+tqdm>=4.62.0
+
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
