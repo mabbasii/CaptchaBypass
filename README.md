@@ -6,7 +6,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-lightgrey.svg)
 # CaptchaBypass
 
-![Generated Captcha](./assets/example.png)
+![Generated Captcha](./assets/captcha_example.png)
 
 This project uses Generative Adversarial Networks (GANs) to generate realistic captcha images that augment training data for convolutional neural network (CNN) based OCR models.
 
