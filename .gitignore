@@ -1,0 +1,11 @@
+# Ignore data files
+data/*
+!data/README.md
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model checkpoints
+*.pt
+*.pth
