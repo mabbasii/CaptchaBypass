@@ -6,12 +6,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-lightgrey.svg)
 # CaptchaBypass
 
-![Generated Captcha](./assets/captcha_example.png)
+
 
 This project uses Generative Adversarial Networks (GANs) to generate realistic captcha images that augment training data for convolutional neural network (CNN) based OCR models.
 
 The GAN implementation is a Conditional Generative Adversarial Network (CGAN), which conditions the generator on target text labels to produce matching captcha images. Using generated samples alongside real captchas can improve OCR robustness.
 
+![Generated Captcha](./assets/captcha_example.png)
 ---
 
 ## Features
